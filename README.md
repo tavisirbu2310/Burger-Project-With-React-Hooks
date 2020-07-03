@@ -3,6 +3,8 @@ A page that simulates a real-life website for food ordering. Users can build the
 The project is also live on the following address: https://my-burger-5df31.web.app/ 
 The live project was built using React, without Hooks. The present project has been changed to have only functional components with the help of Hooks.
 
+I did not create this project by myself, it was created during a course I was part of. I wrote ever single line of code in this course, but I did not come up with the implementation by myself.
+
 To run it:
 
 1.Clone
